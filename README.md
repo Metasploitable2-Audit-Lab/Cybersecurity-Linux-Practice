@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Linux SOC Labs & CyberSecurity Practice
 
 ¡Bienvenido a mi repositorio de entrenamiento en Ciberseguridad! Este espacio está dedicado a centralizar mis laboratorios prácticos, simulaciones de defensa y comandos de auditoría en sistemas operativos Linux, enfocado en el rol de **Analista de SOC / Incident Response**.
